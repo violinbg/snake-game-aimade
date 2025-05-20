@@ -1,0 +1,20 @@
+{
+    // See https://go.dev/doc/tutorial/compile-install for more info
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run Go App",
+            "type": "shell",
+            "command": "go run main.go",
+            "group": "build",
+            "problemMatcher": []
+        },
+        {
+            "label": "Build Go App",
+            "type": "shell",
+            "command": "go build -o game.exe main.go",
+            "group": "build",
+            "problemMatcher": []
+        }
+    ]
+}
