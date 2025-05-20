@@ -2,7 +2,7 @@
 
 **This project is generated with CoPilot + ChatGPT-4.1. I made this by testing the Agent in VSCode and was just prompting - "vibe coding" 🤔. The assets for this game are also generated via AI - using Microsoft Copilot and then lightly edited with Paint.NET.**
 
-I've recoded a YouTube video documenting this: (*LINK TBD*)
+I've recoded a YouTube video documenting this: [AI-Powered Vibe Coding: Snake Game in VSCode Agent Mode!](https://youtu.be/LzOPH2rAWWY)
 
 PS: I'm not claming to be good at making videos nor that this project is anything impressive or useful. It was just a few hours of fun after work, which I decided to document.
 
